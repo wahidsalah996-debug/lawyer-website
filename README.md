@@ -1,30 +1,26 @@
 # Lawyer Website
 
-A professional website concept for a lawyer or legal practice, focused on clear service information, credibility, and easy client contact.
+A responsive website concept for a legal professional or law practice, focused on clear information architecture and accessible contact options.
 
-## Features
-- Responsive layout for mobile, tablet, and desktop
-- Legal services and practice information sections
-- Contact call-to-action for potential clients
-- WhatsApp contact integration in the portfolio version
+## Preview
+- **Live demo:** https://wahidsalah996-debug.github.io/portfolio/lawyer.html
+- **Main portfolio:** https://wahidsalah996-debug.github.io/portfolio/
 
-## Live Demo
-- Portfolio project page: https://wahidsalah996-debug.github.io/portfolio/lawyer.html
+## Highlights
+- Responsive presentation for phones, tablets, and desktops
+- Practice-area and service information sections
+- Clear inquiry and contact calls to action
+- HTML, CSS, and JavaScript in a lightweight static page
 
-## Technologies
-- HTML
-- CSS
-- JavaScript
+## Run locally
+1. Clone this repository.
+2. Open `index.html` in a modern browser.
 
-## Local Preview
-1. Clone or download this repository.
-2. Open `index.html` in a browser.
+No build step is required for the static demo.
 
-## Project Status
-Portfolio/demo project. Replace sample text with the lawyer's verified details and ensure all content complies with applicable professional rules before real-world use.
+## Project status and responsible use
+This is a design prototype, not a legal service or source of legal advice. Replace sample content with verified lawyer details and review all copy, privacy notices, and professional-advertising requirements applicable to the jurisdiction before launch. Do not submit confidential client information through an unreviewed demo.
 
 ## Contact
-For project inquiries, use WhatsApp: **+213 666 780 427**.
+For website project inquiries: [WhatsApp](https://wa.me/213666780427) · [Email](mailto:wahidsalah996@gmail.com)
 
----
-Built as a web design portfolio project.
