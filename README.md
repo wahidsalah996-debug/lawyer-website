@@ -1,26 +1,32 @@
-# Lawyer Website
+# Northbridge Legal — Website Template
 
-A responsive website concept for a legal professional or law practice, focused on clear information architecture and accessible contact options.
+A polished, responsive website template for law firms and independent legal professionals. The layout presents practice areas, professional information, an inquiry journey, and clear contact options.
 
-## Preview
-- **Live demo:** https://wahidsalah996-debug.github.io/portfolio/lawyer.html
+## Featured version
+
+- **Portfolio presentation:** https://wahidsalah996-debug.github.io/portfolio/lawyer.html
 - **Main portfolio:** https://wahidsalah996-debug.github.io/portfolio/
+- **Source:** https://github.com/wahidsalah996-debug/lawyer-website
 
 ## Highlights
-- Responsive presentation for phones, tablets, and desktops
+
+- Responsive layouts for mobile, tablet, and desktop
+- English, French, and Arabic/RTL language support
 - Practice-area and service information sections
-- Clear inquiry and contact calls to action
-- HTML, CSS, and JavaScript in a lightweight static page
+- Consultation journey and clear calls to action
+- Lightweight HTML, CSS, and JavaScript with no build step for the static page
 
 ## Run locally
+
 1. Clone this repository.
 2. Open `index.html` in a modern browser.
 
-No build step is required for the static demo.
+## Client customization checklist
 
-## Project status and responsible use
-This is a design prototype, not a legal service or source of legal advice. Replace sample content with verified lawyer details and review all copy, privacy notices, and professional-advertising requirements applicable to the jurisdiction before launch. Do not submit confidential client information through an unreviewed demo.
+Northbridge Legal is a sample brand. Before publication, replace it with the firm's approved identity, verified lawyer qualifications, practice areas, jurisdiction, contact details, privacy notices, and professional disclosures. Review applicable legal-advertising and professional-conduct requirements.
+
+This website template provides general information architecture only. It is not legal advice, does not create a lawyer-client relationship, and should not be used to submit confidential case details through an unreviewed contact form.
 
 ## Contact
-For website project inquiries: [WhatsApp](https://wa.me/213666780427) · [Email](mailto:wahidsalah996@gmail.com)
 
+For website customization inquiries: [wahidsalah996@gmail.com](mailto:wahidsalah996@gmail.com)
