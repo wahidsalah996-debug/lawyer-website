@@ -23,7 +23,7 @@ A polished, responsive website template for law firms and independent legal prof
 
 ## Client customization checklist
 
-Northbridge Legal is a sample brand. Before publication, replace it with the firm's approved identity, verified lawyer qualifications, practice areas, jurisdiction, contact details, privacy notices, and professional disclosures. Review applicable legal-advertising and professional-conduct requirements.
+Northbridge Legal is the template's initial identity. Before publication, configure the firm's approved branding, verified lawyer qualifications, practice areas, jurisdiction, contact details, privacy notices, and required professional disclosures. Review applicable legal-advertising and professional-conduct requirements.
 
 This website template provides general information architecture only. It is not legal advice, does not create a lawyer-client relationship, and should not be used to submit confidential case details through an unreviewed contact form.
 
